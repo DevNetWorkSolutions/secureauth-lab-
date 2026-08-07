@@ -100,7 +100,7 @@ volontairement vide, prêt pour d'éventuelles évolutions).
 Ouvrez **4 terminaux** dans VS Code (menu *Terminal → Nouveau terminal*,
 ou clic sur le "+" dans le panneau terminal).
 
-### Partie 0 — Lancer le dashboard visuel (recommandé pour une démo)
+### Partie 0 — Lancer le dashboard visuel
 
 **Terminal 4** :
 ```bash
@@ -155,7 +155,7 @@ seuil dépassé, afficher une alerte et écrire l'IP attaquante dans
 `logs/blocklist.json` — exactement le principe utilisé par des outils
 comme Fail2Ban en environnement réel.
 
-## 🧠 Concepts clés à retenir (pour l'entretien)
+## 🧠 Concepts clés à retenir
 
 - **Stockage de mots de passe** : jamais en clair → toujours hashé avec
   un algorithme lent et salé (PBKDF2, bcrypt, argon2).
