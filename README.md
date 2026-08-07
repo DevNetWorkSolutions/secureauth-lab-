@@ -183,5 +183,5 @@ Projet distribué sous licence MIT.
 
 ## 👤 Auteur
 
-[Votre nom] — en recherche d'alternance en infrastructure réseau /
+[Brieuc] — en recherche d'alternance en infrastructure réseau /
 cybersécurité.
