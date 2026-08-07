@@ -88,7 +88,7 @@ bibliothèque standard de Python (`socket`, `hashlib`, `hmac`, `threading`,
 automatiquement à l'ouverture du dossier, voir `.vscode/extensions.json`).
 
 ```bash
-git clone https://github.com/<votre-pseudo>/secureauth-lab.git
+git clone https://github.com/<DevNetWorkSolutions>/secureauth-lab.git
 cd secureauth-lab
 ```
 
