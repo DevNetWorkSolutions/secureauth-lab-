@@ -1,0 +1,8 @@
+# SecureAuth Lab n'utilise que la bibliotheque standard Python
+# (socket, hashlib, hmac, threading, json, argparse...).
+# Aucune dependance externe n'est necessaire pour faire tourner ce projet.
+#
+# Pistes d'evolution possibles :
+# flask==3.0.3          # pour un futur dashboard web
+# argon2-cffi==23.1.0    # pour comparer PBKDF2 a un algorithme plus recent
+# pytest==8.2.0           # pour ajouter des tests unitaires

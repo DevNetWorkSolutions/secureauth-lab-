@@ -1,0 +1,17 @@
+# Cache Python
+__pycache__/
+*.pyc
+
+# Logs et blocklist generes a l'execution (ne pas versionner de vrais logs)
+logs/*.log
+logs/blocklist.json
+
+# On garde le dossier logs/ dans git meme s'il est vide au depart
+!logs/.gitkeep
+
+# Environnements virtuels
+venv/
+.venv/
+
+# IDE / systeme
+.DS_Store
