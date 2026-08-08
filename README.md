@@ -14,12 +14,7 @@ qui l'exploite**, et **une version corrigée avec détection automatique**.
 
 Ce projet contient un script d'attaque par force brute
 (`attacker/brute_force.py`). **Il est conçu pour être utilisé UNIQUEMENT
-contre les serveurs de ce dépôt, en local (127.0.0.1).**
-
-Utiliser ce type de script contre un système que vous ne possédez pas et
-pour lequel vous n'avez pas d'autorisation écrite est **illégal** (en
-France : articles 323-1 et suivants du Code pénal). Ce projet a un but
-strictement pédagogique.
+contre les serveurs de ce dépôt.**
 
 ---
 
