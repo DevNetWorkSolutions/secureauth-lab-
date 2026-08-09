@@ -9,8 +9,7 @@ Il se connecte en boucle à un serveur d'authentification (vulnerable OU
 secure) et essaie une liste de mots de passe courants pour un nom
 d'utilisateur donné, jusqu'à trouver le bon ou épuiser la liste.
 
-⚠️  À utiliser UNIQUEMENT contre les serveurs de ce projet, en local
-(127.0.0.1). Utiliser ce type de script contre un système tiers sans
+⚠️  À utiliser UNIQUEMENT contre les serveurs de ce projet, en local. Utiliser ce type de script contre un système tiers sans
 autorisation est illégal (voir README.md).
 
 Utilisation :
